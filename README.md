@@ -35,6 +35,8 @@
 
 O Projeto Fokus é um temporizador personalizável com três modalidades principais: foco, descanso curto e descanso longo. Ele foi projetado para ajudar a otimizar sua produtividade através da técnica Pomodoro, proporcionando intervalos de foco e descanso bem definidos.
 
+<img src="https://github.com/Amanda-ribeiiro/fokus/blob/main/Fokus-video.gif">
+
 
 ## Funcionalidades
 
