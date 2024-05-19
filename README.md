@@ -93,7 +93,7 @@ IDE:
         <span><b>Amanda Ribeiro</b></span>
       </a>
       <br>
-      <span>Desenvolvedora Front-end</span>
+      <span>Full Stack Developer</span>
     </td>
   </tr>
 </table>
