@@ -1,6 +1,6 @@
 <div align=center>
-    <a href="https://github.com/Amanda-ribeiiro/challenge-one-t6-portfolio/blob/main/README.md"><img src="https://img.shields.io/badge/Idioma-PT-031225"></a>
-    <a href="https://github.com/Amanda-ribeiiro/challenge-one-t6-portfolio/blob/main/README.en.md"><img src="https://img.shields.io/badge/Language-EN-052236"></a>
+    <a href="https://github.com/Amanda-ribeiiro/fokus/blob/main/README.md"><img src="https://img.shields.io/badge/Idioma-PT-031225"></a>
+    <a href="https://github.com/Amanda-ribeiiro/fokus/blob/main/README.en.md"><img src="https://img.shields.io/badge/Language-EN-052236"></a>
 </div>
 
 <br>
